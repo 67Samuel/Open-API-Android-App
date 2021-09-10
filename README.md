@@ -1,3 +1,6 @@
+# Open-API-Android-App
+Based on [Mitch Tabian](https://github.com/mitchtabian)'s course
+
 <a href='https://codingwithmitch.com/courses/powerful-android-apps-with-jetpack-architecture/' target='_blank'><img class='header-img' src='https://codingwithmitch.s3.amazonaws.com/static/powerful-android-apps-with-jetpack-architecture/images/powerful_android_apps_1.png' /></a>
 
 
